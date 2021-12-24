@@ -1,0 +1,384 @@
+
+.tt{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    bottom: 0px;
+}
+.to{
+width: 67%;
+height: 5%;
+position: absolute;
+left: 18%;
+top:33%;
+background: #A22922;
+}
+.ton{
+width: 100%;
+height:350%;
+position: absolute;
+left: 0%;
+top:663%;
+background: #FFC633;
+}
+.tip{
+position: absolute;
+width: 60%;
+height: 60%;
+left: 20%;
+top: 15%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 200%;
+line-height: 80%;
+
+color: black;
+}
+.square2{
+    position: absolute;
+    width: 166.2%;
+    height: 900%;
+    left: -33%;
+    top: 140%;
+    
+    background: #28434C;
+}
+.uu{
+position: absolute;
+width: 30%;
+height: 400%;
+left: 15%;
+top: 5%;
+    
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 130%;
+line-height: 100%;
+    
+color: #FFFFFF;
+}
+.ui {
+position: absolute;
+width: 41%;
+height: 4%;
+left: 94.5%;
+top: -12.6%;
+
+
+border-radius:70%;
+}
+.pp{
+    position: absolute;
+    width: 28%;
+    height: 400%;
+    left: 130%;
+    top: 10%;
+        
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 110%;
+    line-height: 100%;
+        
+    color: #FFFFFF;
+    }
+    .rectangle{
+        position: absolute;
+        width: 1192%;
+        height: 6%;
+        left: -644%;
+        top: 2.94%;
+        
+        background: #FFFFFF;
+    }
+    p.str675:after { content: '&#128386;'; }
+.op{
+position: absolute;
+width: 6%;
+height: 7%;
+left: 35%;
+top: 3%;
+    
+background: #FFC633;
+}
+.c{
+    position: absolute;
+    width: 6%;
+    height: 7%;
+    left: 43%;
+    top: 3%;
+        
+    background: #FFC633;
+    }
+    .u{
+        position: absolute;
+        width: 6%;
+        height: 7%;
+        left: 51%;
+        top: 3%;
+            
+        background: #FFC633;
+        }
+        .i{
+            position: absolute;
+            width: 6%;
+            height:7%;
+            left: 59%;
+            top: 3%;
+                
+            background: #FFC633;
+            }
+            .kl{
+                position: absolute;
+                width: 6%;
+                height: 7%;
+                left: 68%;
+                top: 3%;
+                    
+                background: #FFC633;
+                }
+                .jk{
+                    position: absolute;
+                    width: 20%;
+                    height: 10%;
+                    left: 44%;
+                    top: 10%;      
+                }
+                .tp{
+                    position: absolute;
+                    width: 60%;
+                    height: 40%;
+                    left: 36%;
+                    top: 15%;
+                    
+                    font-family: Viga;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 100%;
+                    line-height: 70%;
+                    
+                    color: #000000;
+                }
+                .yu{
+                    position: absolute;
+                    width:40%;
+                    height: 90%;
+                    left: -45%;
+                    top: 30%;
+                }
+                .cop{
+                    position: absolute;
+                    width: 90%;
+                    height: 135%;
+                    left: 5%;
+                    top: 70%;
+                    
+                    background: #FAE9BD;
+                }
+                .rt{
+                    position: absolute;
+                    width: 80%;
+                    height: 80%;
+                    left: 10%;
+                    top: 67%;
+                    
+                    font-family: Gotu;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 57%;
+                    line-height: 200%;
+                    text-align: center;
+                    
+                    color: #000000;
+                }
+                .lop{
+                    position: absolute;
+                    width: 209%;
+                    height: 280%;
+                    left: -88%;
+                    top: 180%;
+                    
+                    
+                    opacity: 60%;
+                }
+                .gh{
+                    position: absolute;
+                    width: 200%;
+                    height: 200%;
+                    left: -80%;
+                    top: 330%;
+                    
+                    font-family: Roboto;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 270%;
+                    line-height: 70%;
+                    
+                    color: black
+                }
+                .hp{
+                    position: absolute;
+                    width: 25%;
+                    height: 5%;
+                    left: 37%;
+                    top: 40%;
+                    
+                    background: rgba(209, 72, 72, 0.7);
+                }
+                .nm{
+                    position: absolute;
+                    width: 418%;
+                    height: 5000%;
+                    left: -164%;
+                    top: 500%;
+                    
+                    background: #220A2E;
+                }
+                .ty{
+                    position: absolute;
+                    width: 60%;
+                    height: 40%;
+                    left: 20%;
+                    top: 0%;
+                    
+                    font-family: Roboto;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 80%;
+                    line-height: 70%;
+                    text-align: center;
+                    
+                    color: #FFFFFF;
+                }
+                .ver{
+                    position: absolute;
+                    width: 60%;
+                    height: 50%;
+                    left:20%;
+                    top: 35%;
+
+                   
+                    }
+                    .mir{
+                        position: absolute;
+                        width: 60%;
+                        height: 30%;
+                        left: 20%;
+                        top: 80%;
+                        
+                        font-family: Roboto;
+                        font-style: normal;
+                        font-weight: normal;
+                        font-size: 80%;
+                        line-height: 80%;
+                        text-align: center;
+                        
+                        color: #FFFFFF;
+                    }
+                    .uiop{
+                        position: absolute;
+                        width: 100%;
+                        height:150%;
+                        left: 0%;
+                        top: 70%;
+                        
+                        
+                    }
+                .iop{
+               position: absolute;
+               width: 60%;
+               height: 40%;
+               left: 20%;
+               top: 200%;
+               font-family: Roboto;
+               font-style: normal;
+               font-weight: normal;
+               font-size: 80%;
+               line-height: 70%;
+               text-align: center;
+
+               color: #FFFFFF;
+                    }
+                    .bn{
+                        position: absolute;
+                        width: 163%;
+                        height: 390%;
+                        left: -30%;
+                        top: 150%;
+                        
+                    }
+                    .yyy{
+                        position: absolute;
+                        width: 100%;
+                        height: 105%;
+                        left: 0%;
+                        top: 580%;
+                        
+                        background: #FEB700;
+                    }
+                    .er{
+                        position: absolute;
+                        width: 60%;
+                        height: 30%;
+                        left: 18%;
+                        top: -10%;
+                        
+                        font-family: Yaldevi Colombo SemiBold;
+                        font-style: normal;
+                        font-weight: 600;
+                        font-size:100%;
+                        line-height: 30%;
+                        text-align: center;
+                        
+                        color: #000000;
+                    }
+                   .main{
+                    position: absolute;
+                    width: 200%;
+                     height: 60%;
+                     left: -50%;
+                     top: 400%;
+
+                     font-family: Yaldevi Colombo SemiBold;
+                      font-style: normal;
+                      font-weight: 600;
+                      font-size: 39%;
+                      line-height: 90%;
+                      text-align: center;
+ 
+                      color: #FFFFFF;
+                   }
+                 .rer{
+                    position: absolute;
+                    width: 386%;
+                    height: 2000%;
+                    left: -141%;
+                    
+                    bottom: -3000%;
+                    background: #2E2323;
+                }
+                
+                 
+                  
+                   .ip{
+                    position: absolute;
+                 width: 60%;
+                 height: 30%;
+                 left: 20%;
+                 top: 45%;
+
+                font-family: Yaldevi Colombo SemiBold;
+                font-style: normal;
+               font-weight: 50%;
+               font-size: 140%;
+               line-height: 50%;
+               text-align: center;
+
+               color: #FFFFFF;
+                   }
